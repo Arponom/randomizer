@@ -9,9 +9,6 @@ class base():
 
         pass
 
-#
-
-
 test = randomize_all('').generate_email()
 
 test1 = randomize_all('').generate_phone()

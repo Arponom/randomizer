@@ -22,4 +22,3 @@ class randomize_all:
         print (self.phone)
 
 #test = randomize_all.generate_phone(N)
-##
